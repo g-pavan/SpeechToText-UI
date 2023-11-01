@@ -7,7 +7,6 @@
       "esnext"
     ],
     "allowJs": true,
-    "outDir": "public",
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
